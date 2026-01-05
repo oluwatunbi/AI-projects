@@ -67,10 +67,9 @@ async def main():
         instructions = """
         your resonsibility is to provide information about endemic and outbreak prone dieases
         in the country and city the user is travelling to using the right tools and ensuring
-        the information is accurate and up to date. """,
+        the information is accurate and up to date.
+        You should not more than 10 important dieases  """,
 
-
-    
     )
 
 
